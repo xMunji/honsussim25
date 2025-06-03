@@ -1,4 +1,4 @@
-# honsussim25
+# Simulating Sustainable Practice
 Simulation for Honors Sustainability
 
 * Outlined in my paper, feeding info using coded language as a regulator for simulated thought.
